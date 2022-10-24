@@ -1,12 +1,18 @@
 
 MOODLE 4.x PROJECT
 
-1. postgres
-2. admin
-3. admin@admin.com
-4. enable no auth
-5. create user = user : User1234_ 
-6. Enrol > Self > Allow existing enrolments = Yes
+[//]: # (1. postgres)
+
+[//]: # (2. admin)
+
+[//]: # (3. admin@admin.com)
+
+[//]: # (4. enable no auth)
+
+[//]: # (5. create user = user : User1234_ )
+
+[//]: # (6. Enrol > Self > Allow existing enrolments = Yes)
+
 
 
 ### Create New Auth Plugins
